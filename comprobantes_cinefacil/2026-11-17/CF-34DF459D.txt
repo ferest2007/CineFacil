@@ -1,0 +1,24 @@
+==================================================
+              COMPROBANTE DE RESERVA              
+                    CINEFACIL                     
+==================================================
+Codigo de Reserva : CF-34DF459D
+Fecha y Hora      : 2026-11-17 06:30:48
+--------------------------------------------------
+DATOS DEL CLIENTE
+Nombre            : Juan Diaz
+Cedula            : 12345678
+--------------------------------------------------
+DETALLES DE LA FUNCION
+Pelicula          : Interstellar: El Regreso
+Horario           : 2026-10-10 16:00
+Asientos          : C5, C4
+Subtotal Entradas : $30000
+--------------------------------------------------
+CONFITERIA Y BEBIDAS
+- Perro Caliente Clasico : $12000
+--------------------------------------------------
+TOTAL PAGADO      : $42000
+==================================================
+          Gracias por su compra en Cinefacil      
+==================================================

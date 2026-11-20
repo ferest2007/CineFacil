@@ -1,0 +1,24 @@
+==================================================
+              COMPROBANTE DE RESERVA              
+                    CINEFACIL                     
+==================================================
+Codigo de Reserva : CF-5ACF9266
+Fecha y Hora      : 2026-11-17 06:35:52
+--------------------------------------------------
+DATOS DEL CLIENTE
+Nombre            : pol
+Cedula            : 123
+--------------------------------------------------
+DETALLES DE LA FUNCION
+Pelicula          : Avengers: Endgame
+Horario           : 2026-10-10 14:00
+Asientos          : C3, C2, B2, B3
+Subtotal Entradas : $48000
+--------------------------------------------------
+CONFITERIA Y BEBIDAS
+- Botella de Agua 600ml : $5000
+--------------------------------------------------
+TOTAL PAGADO      : $53000
+==================================================
+          Gracias por su compra en Cinefacil      
+==================================================
